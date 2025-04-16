@@ -9,4 +9,4 @@ Users can input letter grades (ex. A, B, C). Users can get help by looking at th
 
 This project was developed in 2024 for the FBLA NLC in Orlando. It is very reliable and simple to use. Anybody can use it!
 
-Please look at my other projects on my Github page.
+If you think this is great, please look at my other projects on my Github page.
