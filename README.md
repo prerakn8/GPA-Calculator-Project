@@ -15,4 +15,6 @@ can also input different grades, different types of classes, different classes. 
 
 This project was developed in 2024 for the FBLA NLC in Orlando. It is very reliable and simple to use. Anybody can use it!
 
+You are allowed to use this project for the sole purpose of calculating a GPA. You may not reverse engineer, copy, plagiarize, or relabel the project as your own. 
+
 If you think this is great, please look at my other projects on my Github page.
